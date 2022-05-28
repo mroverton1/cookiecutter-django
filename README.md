@@ -1,3 +1,11 @@
+
+
+# Project Template
+- See Cookiecutter readme below.
+
+
+----
+
 # Cookiecutter Django
 
 [![Build Status](https://img.shields.io/github/workflow/status/cookiecutter/cookiecutter-django/CI/master)](https://github.com/cookiecutter/cookiecutter-django/actions?query=workflow%3ACI)
